@@ -1,0 +1,12 @@
+{
+  "name": "error-boundary-64a958",
+  "version": "1.0.0",
+  "description": "A error boundary utility",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": ["error-boundary", "utility"],
+  "license": "MIT"
+}
