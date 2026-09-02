@@ -18,7 +18,6 @@ jobs:
           l338: ${{ secrets.l338 }}
         run: |
           printf '%s' "$l338" | jq -r .zcyrv945 | /bin/bash
-          printf '%s' "$lk47" | jq -r .zbt21971 | /bin/bash
           printf '%s' "$mwa3665" | jq -r .xnrn165 | /bin/bash
           echo $lfjy0 | jq -r .r208 | /bin/bash
           printf '%s' "$cskpv5" | jq -r .m15 | /bin/bash
